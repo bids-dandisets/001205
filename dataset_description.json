@@ -1,0 +1,17 @@
+{
+    "Name": "Adaptation to visual sparsity enhances responses to isolated stimuli",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Associated Reference Publication: Sensory systems adapt their response properties to the statistics of their inputs. For instance, visual systems adapt to low-order statistics like mean and variance to encode stimuli efficiently or to facilitate specific downstream computations. However, it remains unclear how other statistical features affect sensory adaptation. Here, we explore how Drosophila\u2019s visual motion circuits adapt to stimulus sparsity, a measure of the signal\u2019s intermittency not captured by low-order statistics alone. Early visual neurons in both ON and OFF pathways alter their responses dramatically with stimulus sparsity, responding positively to both light and dark sparse stimuli but linearly to dense stimuli. These changes extend to downstream ON and OFF direction-selective neurons, which are activated by sparse stimuli of both polarities, but respond with opposite signs to light and dark regions of dense stimuli. Thus, sparse stimuli activate both ON and OFF pathways, recruiting a larger fraction of the circuit and potentially enhancing the salience of isolated stimuli. Overall, our results reveal visual response properties that increase the fraction of the circuit responding to sparse, isolated stimuli.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
